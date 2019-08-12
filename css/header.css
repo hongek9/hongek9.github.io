@@ -1,0 +1,9 @@
+@import "variables.css";
+
+.jumbotron{
+    background: url(../assets/mountains.jpg) center 80%;
+    background-size: cover;
+    height:60vh;
+    text-align: center;
+    color: var(--blue);
+}
