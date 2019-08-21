@@ -1,5 +1,6 @@
 #contact{
     font-family: 'Quicksand', sans-serif;
+    /* font-size:20px; */
     background-image: url("../assets/mountain_beach.jpg");
     position:relative;
     z-index:10;
