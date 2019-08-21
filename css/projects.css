@@ -1,0 +1,62 @@
+.col-sm-12{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* .container{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 33% 34% 33%;
+
+} */
+
+.projects{
+    background-color:#bcd4eb;
+    /* position:relative;
+    z-index:5; */
+}
+
+/* .boxLink{
+    height:20vh;
+    width:20vh;
+    background-color:#b4cddd;
+    border-radius:1em;
+} */
+
+.picSnip{
+    height:25vh;
+    width:auto;
+    border-radius:10%;
+    border: solid 1em #b4cddd;
+}
+
+.plainText{
+    color: black;
+    position:relative;
+    display: inline-block;
+    font-size:20px;
+    left:3.2em;
+}
+
+a.linkText:link{
+    color:black;
+    position:relative;
+    font-size: 20px;
+    left:2.1em;
+    text-align:center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a.linkText:visited{
+    color:black;
+    position:relative;
+    display: inline-block;
+    text-decoration:none;
+}
+
+a.linkText:hover{
+    color:navy;
+}
+
+

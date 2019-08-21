@@ -1,0 +1,17 @@
+.footer{
+    background-color:#bcd4eb;
+    height:10vh;
+}
+
+.copyright{
+    position:relative;
+    top: 1em;
+    font-family: 'Quicksand', sans-serif;
+    font-size:14px; 
+    color:rgb(46, 46, 46);
+    text-decoration: none;
+}
+
+a.copyright:hover{
+    text-decoration: none;
+}
