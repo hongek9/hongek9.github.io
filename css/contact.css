@@ -1,3 +1,7 @@
-.contact{
+#contact{
     font-family: 'Quicksand', sans-serif;
+    background-image: url("../assets/mountain_beach.jpg");
+    position:relative;
+    z-index:10;
+    background-size:cover;
 }
