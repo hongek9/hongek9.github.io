@@ -24,6 +24,10 @@
     border-radius:1em;
 } */
 
+#blueBadgeText{
+    left: 1em;
+}
+
 .picSnip{
     height:25vh;
     width:auto;
@@ -57,6 +61,27 @@ a.linkText:visited{
 }
 
 a.linkText:hover{
+    color:navy;
+}
+
+a.linkTextRow:link{
+    color:black;
+    position:relative;
+    font-size: 20px;
+    left:0em;
+    text-align:center;
+    display: inline-block;
+    text-decoration: none;
+}
+
+a.linkTextRow:visited{
+    color:black;
+    position:relative;
+    display: inline-block;
+    text-decoration:none;
+}
+
+a.linkTextRow:hover{
     color:navy;
 }
 
